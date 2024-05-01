@@ -9,6 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "venom-bot": "^5.1.0"
+    "venom-bot": "^5.1.0",
+       "puppeteer": "^21.6.1",
+    "puppeteer-core": "^22.6.5",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "qrcode": "^1.5.1",
+    "qrcode-terminal": "^0.12.0"
   }
 }
